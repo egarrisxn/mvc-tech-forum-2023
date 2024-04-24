@@ -8,6 +8,8 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 
 A CMS-style blog application, where developers can create, edit, and delete their own blog posts, along with comment and interact with other developers’ blogs posts as well.
 
+![Screenshot 2024-04-24 110227](https://github.com/EGARRISXN/mvc-tech-blog/assets/126130230/c2c373b7-7564-41c4-85a1-0a47e8cb5c20)
+
 ## Table of Contents
 
 - [Technologies](#technologies)
