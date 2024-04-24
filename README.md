@@ -50,5 +50,3 @@ This project is licensed under the [MIT license](https://opensource.org/licenses
 ## Questions
 
 Feel free to reach out to me via [GitHub](https://github.com/EGARRISXN), or username at egarrisxn@gmail.com.
-
-update
