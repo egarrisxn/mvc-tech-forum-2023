@@ -24,7 +24,7 @@ A CMS-style blog application, where developers can create, edit, and delete thei
 - HTML/CSS/JS
 - Node.js
 - Handlebars.js
-- Express.js
+- Express
 - Sequelize
 - MySQL
 
@@ -34,12 +34,16 @@ _Note: This [guide](https://coding-boot-camp.github.io/full-stack/mysql/mysql-in
 
 1. Clone the repository to your local machine.
 2. Create your `.env` file. (Example at `.env.example`).
-3. Run `npm install` to download all dependencies.
+3. Select & download your package manager: [npm](https://www.npmjs.com/), [pnpm](https://pnpm.io/), or [yarn](https://yarnpkg.com/).
+4. Inside your terminal, run `npm install`, `pnpm install`, or `yarn install` to download all dependencies.
+
+_I used npm for this application, but if you decide to use another package manager, update the package.json accordingly._
 
 ## Usage
 
-4. Run `npm run seed` to seed your database.
-5. Run `npm start server` to start up your server.
+4. Run `node seeds/seed.js` to seed your database.
+5. Run `node server.js` to start up your server.
+6. Go for the gold!
 
 ## Acknowledgements
 
