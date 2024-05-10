@@ -16,7 +16,7 @@ A CMS-style forum application, where developers can create, edit, and delete the
 - Express
 - Sequelize
 - Handlebars
-- CSS3
+- Bootstrap
 - JavaScript
 
 ## Installation
