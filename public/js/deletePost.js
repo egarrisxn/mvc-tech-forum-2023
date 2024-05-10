@@ -1,4 +1,4 @@
-// Function created allowing user to delete blog posts from the individual blog post page
+// Function created allowing user to delete forum posts from the individual forum post page
 const deletePostHandler = async (event) => {
   event.preventDefault();
   console.log("clicked me");

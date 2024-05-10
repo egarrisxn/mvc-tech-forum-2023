@@ -3,7 +3,7 @@ const router = require("express").Router();
 const { Post, User, Comment } = require("../models");
 const withAuth = require("../utils/auth");
 
-// Route set up to find all blog posts and render homepage
+// Route set up to find all forum posts and render homepage
 router.get("/", async (req, res) => {
   try {
     const postData = await Post.findAll({
@@ -33,7 +33,7 @@ router.get("/", async (req, res) => {
   }
 });
 
-// Route set up to find a single blog post and render the post page
+// Route set up to find a single forum post and render the post page
 router.get("/post/:id", withAuth, async (req, res) => {
   try {
     const postData = await Post.findByPk(req.params.id, {
@@ -62,7 +62,7 @@ router.get("/post/:id", withAuth, async (req, res) => {
   }
 });
 
-// Route set up to find all blog posts by a single user and render the dashboard
+// Route set up to find all forum posts by a single user and render the dashboard
 // Using withAuth middleware to prevent non-logged in users from accessing the route
 router.get("/dashboard", withAuth, async (req, res) => {
   try {

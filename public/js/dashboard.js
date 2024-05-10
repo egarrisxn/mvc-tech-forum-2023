@@ -1,4 +1,4 @@
-// Function created that allows users to delete blog posts on dashboard page and then redirect them to an updated dashboard
+// Function created that allows users to delete forum posts on dashboard page and then redirect them to an updated dashboard
 const deletePostHandler = async (event) => {
   event.preventDefault();
   console.log("clicked me");
@@ -18,7 +18,7 @@ const deletePostHandler = async (event) => {
   }
 };
 
-// Function created that allows for a user to edit blog posts on dashboard page by redirecting them to the /create/:id page
+// Function created that allows for a user to edit forum posts on dashboard page by redirecting them to the /create/:id page
 const editPost = async (event) => {
   event.preventDefault();
   console.log("clicked me");

@@ -1,6 +1,6 @@
 let post = window.location.pathname.split("/");
 
-// Allows user to edit blog posts from the post page
+// Allows user to edit forum posts from the post page
 const submitEdit = async (event) => {
   event.preventDefault();
   const title = document.getElementById("titleInput").value;

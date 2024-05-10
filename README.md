@@ -1,4 +1,4 @@
-# MVC Tech Blog
+# MVC Tech Forum
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -6,9 +6,9 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 
 ## Description
 
-A CMS-style blog application, where developers can create, edit, and delete their own blog posts, along with comment and interact with other developers’ blogs posts as well.
+A CMS-style forum application, where developers can create, edit, and delete their own forum posts, along with comment and interact with other developers’ forums posts as well.
 
-![Screenshot 2024-04-24 110227](https://github.com/EGARRISXN/mvc-tech-blog/assets/126130230/c2c373b7-7564-41c4-85a1-0a47e8cb5c20)
+![Screenshot 2024-04-24 110227](https://github.com/EGARRISXN/mvc-tech-forum/assets/126130230/c2c373b7-7564-41c4-85a1-0a47e8cb5c20)
 
 ## Table of Contents
 

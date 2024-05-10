@@ -30,7 +30,7 @@ router.put("/:id", withAuth, async (req, res) => {
     });
 
     if (!postData) {
-      res.status(404).json({ message: "No blog post found with this id!" });
+      res.status(404).json({ message: "No forum post found with this id!" });
       return;
     }
 
@@ -51,7 +51,7 @@ router.delete("/:id", withAuth, async (req, res) => {
     });
 
     if (!postData) {
-      res.status(404).json({ message: "No blog post found with this id!" });
+      res.status(404).json({ message: "No forum post found with this id!" });
       return;
     }
 
