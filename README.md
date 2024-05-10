@@ -18,6 +18,7 @@ A CMS-style forum application, where developers can create, edit, and delete the
 - Handlebars
 - Bootstrap
 - JavaScript
+- Heroku
 
 ## Installation
 
