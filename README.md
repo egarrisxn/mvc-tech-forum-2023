@@ -12,12 +12,12 @@ A CMS-style forum application, where developers can create, edit, and delete the
 
 ## Technologies
 
-- HTML/CSS/JS
-- Node.js
-- Handlebars.js
+- MySQL
 - Express
 - Sequelize
-- MySQL
+- Handlebars
+- CSS3
+- JavaScript
 
 ## Installation
 
