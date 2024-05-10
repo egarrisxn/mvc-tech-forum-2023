@@ -10,15 +10,6 @@ A CMS-style forum application, where developers can create, edit, and delete the
 
 ![Screenshot 2024-04-24 110227](https://github.com/EGARRISXN/mvc-tech-forum/assets/126130230/c2c373b7-7564-41c4-85a1-0a47e8cb5c20)
 
-## Table of Contents
-
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-- [Questions](#questions)
-
 ## Technologies
 
 - HTML/CSS/JS
@@ -44,10 +35,6 @@ _I used npm for this application, but if you decide to use another package manag
 4. Run `node seeds/seed.js` to seed your database.
 5. Run `node server.js` to start up your server.
 6. Go for the gold!
-
-## Acknowledgements
-
-This one I tried to tackle solo, and for the most part, succeded. I reached out to a youtube guide or two, but that's it!
 
 ## License
 
