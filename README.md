@@ -1,14 +1,14 @@
 # MVC Tech Forum 2023
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/mvc-tech-forum-2023)
-
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
+
+![Screenshot 2024-04-24 110227](https://github.com/EGARRISXN/mvc-tech-forum/assets/126130230/c2c373b7-7564-41c4-85a1-0a47e8cb5c20)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/mvc-tech-forum-2023)
 
 ## Description
 
 A CMS-style forum application, where developers can create, edit, and delete their own forum posts, along with comment and interact with other developers’ forums posts as well.
-
-![Screenshot 2024-04-24 110227](https://github.com/EGARRISXN/mvc-tech-forum/assets/126130230/c2c373b7-7564-41c4-85a1-0a47e8cb5c20)
 
 ## Technologies
 
